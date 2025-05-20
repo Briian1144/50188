@@ -1,0 +1,1 @@
+repetir { imprimir("¡Probando ANTLR!"); imprimir("Otra línea."); } hasta verdadero;
